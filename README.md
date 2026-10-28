@@ -1,25 +1,8 @@
-# Привет, меня зовут Максим! 👋
+# Hi, my name is Maxim
 
-Я FullStack разработчик с фокусом на создании современных веб-приложений.
+I am a backend developer. My primary tech stack is Java (Spring Boot), but I also occasionally dabble in frontend development (using frameworks like React or Vue)
 
-## 🛠 Технологический стек
-
-### **Frontend Мастерство** 
-[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-
-### **Backend Профессионализм** 
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)](https://hibernate.org/)
-
-## 🏆 Достижения
-
-- 🥇 **1 место** на региональном чемпионате по веб-технологиям
-- Топ-15 на **всероссийском этапе** в веб-разработке
-- Успешные **коммерческие проекты** для реальных клиентов
-- Множество **pet-projects** с инновационными решениями
-
-## 📫 Как связаться
+## How to contact me (English or Russian)
 
 [![GitHub](https://img.shields.io/badge/GitHub-TiroMaks-181717?logo=github)](https://github.com/TiroMaks)
 [![Telegram](https://img.shields.io/badge/Telegram-@hafn__g-26A5E4?logo=telegram)](https://t.me/hafn_g)
